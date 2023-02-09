@@ -2,9 +2,9 @@
 ## What does it do?
 Converts the filepaths stored in a M3U file exported from an Android system. The paths are converted from the Android Filesystem to your PC's file system so the same playlist can be used on PC.
 
-Please note: This only converts the M3U playlist file, in order to use the playlist you must have the same files stored on your android device on your PC.
+**Please note:** This only converts the M3U playlist file, in order to use the playlist you must have the same files stored on your android device on your PC.
 
-##How can I use it?
+## How can I use it?
 There are executable files provided in the release folder. In order to download them please click on the executable of your choice and use the Download button.
 
 
